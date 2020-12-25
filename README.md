@@ -12,7 +12,7 @@ Please feel free to, through the issues tab, submit router pages that are curren
 
 Please see the "Releases" tab for .apk pre-compiled versions of this app.
 
-If you want to compile this app yourself, please see the /Source/ directory, then drag the folder inside into your AndroidStudioProjects folder.  (C:/Users/[username]/AndroidStudioProjects/ for me)
+If you want to compile this app yourself, please see the /Source/ directory, then, after unzipping, drag the folder inside into your AndroidStudioProjects folder.  (C:/Users/[username]/AndroidStudioProjects/ for me)
 
 ## License
 This project is licensed under the CC BY-NC-SA 4.0 license. A human readible copy of that license is avalible [here](https://creativecommons.org/licenses/by-nc-sa/4.0/), although I will shortly sum it up below.
