@@ -24,3 +24,7 @@ This project is licensed under the CC BY-NC-SA 4.0 license. A human readible cop
 - You may not use this program for commercial uses^
 
 ^This is negotiable, depending on circumstances i may be able to coordinate a new license based on the individual needs of the commercial application, please contact me on github to enquire about this, and i'll respond ASAP.
+
+## Contacting me and donations
+Discord: GhostDog#1082
+Patreon: Coming soon(?)
