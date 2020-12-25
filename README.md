@@ -27,4 +27,5 @@ This project is licensed under the CC BY-NC-SA 4.0 license. A human readible cop
 
 ## Contacting me and donations
 Discord: GhostDog#1082
+
 Patreon: Coming soon(?)
