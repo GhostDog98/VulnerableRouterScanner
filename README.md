@@ -1,4 +1,4 @@
-# VulnerableRouterScanner
+RR# VulnerableRouterScanner
 A free tool to automatically scan for the current router on a network, with an in-build database of default logins you can add to.
 ## Features
 
@@ -26,6 +26,7 @@ This project is licensed under the CC BY-NC-SA 4.0 license. A human readible cop
 ^This is negotiable, depending on circumstances i may be able to coordinate a new license based on the individual needs of the commercial application, please contact me on github to enquire about this, and i'll respond ASAP.
 
 ## Contacting me and donations
-Discord: GhostDog#1082
 
 Patreon: Coming soon(?)
+
+Pm me on GitHub if you want to.
